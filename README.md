@@ -17,7 +17,7 @@ Live Demo: [Click Here](https://abhisheksingh555-signup.netlify.app)
 
 ## 📸 Preview
 
-![Signup Preview](https://raw.githubusercontent.com/Abhisheksingh555/Signup/main/assets/preview.png)
+![Signup Preview](https://github.com/Abhisheksingh555/Signup/blob/main/preview.png)
 
 > _Note: If preview image doesn't load, make sure `assets/preview.png` exists or change the path accordingly._
 
