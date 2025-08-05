@@ -33,5 +33,3 @@ Live Demo: [Click Here](https://abhisheksingh555-signup.netlify.app)
 
 ---
 
-## 📁 Project Structure
-
